@@ -3,6 +3,8 @@ Jogo Interativo Utilizando Portas Lógicas (WordStop)
 Projeto para TCC do curso técnico que foi concluído em 2011.
 
 O intuito desse jogo é: 
+
+
 1º) escolher categoria de coisas, exemplo: Carro, Nome, Fruta, Cidade.
 
 2º) escolher uma letra
