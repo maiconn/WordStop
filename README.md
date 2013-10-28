@@ -15,4 +15,4 @@ O intuito desse jogo é:
 
 Este jogo pode ser jogado em rede, fácil de jogar, porém precisa ter o oracle instalado, pois inicialmente fiz somente para testes.
 
-Quem quiser aprimorar, fique a vontade, porém avise antes por gentiliza.
+Quem quiser aprimorar, fique a vontade.
